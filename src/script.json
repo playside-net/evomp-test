@@ -1,0 +1,6 @@
+{
+  "id": "test",
+  "name": "Test Script",
+  "main-class": "mp.evolution.test.Test",
+  "authors": ["Radviger"]
+}

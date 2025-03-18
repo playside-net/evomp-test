@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../runtime/csl/build/libs/csl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
